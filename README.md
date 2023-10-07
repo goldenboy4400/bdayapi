@@ -1,3 +1,2 @@
 # bdayapi
-
-# Open the html file and javascript file
+Simple Javascript with jquery.  Used datatable.js cdn for readability and sorting.
